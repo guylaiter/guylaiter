@@ -8,3 +8,8 @@ Feel free to browse through my repositories 🗂, and don't hesitate to reach ou
 
 🖐️👋🖐️👋🖐️👋
 
+Connect with me:
+[https://www.linkedin.com/in/sahargalimidi](https://www.linkedin.com/in/guy-laiter-613247173/) [https://www.facebook.com/sahar.galimidi](https://www.facebook.com/guy.laiter)
+
+Languages and Tools:
+arduino aws bash c docker git java kubernetes linux mysql python unity
