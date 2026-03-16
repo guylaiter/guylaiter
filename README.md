@@ -15,4 +15,15 @@ Feel free to browse through my repositories 🗂, and don't hesitate to reach ou
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/guy.laiter)
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=arduino,aws,bash,c,docker,git,java,kubernetes,linux,mysql,python,unity)](https://skillicons.dev)
+<a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" width="40"/></a>
+<a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="40"/></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="40"/></a>
+<a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c" width="40"/></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="40"/></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>
+<a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" width="40"/></a>
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="40"/></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="40"/></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="40"/></a>
+<a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" width="40"/></a>
